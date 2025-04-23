@@ -1,3 +1,8 @@
+### DEPLOYED PROJECT
+
+[website](https://whatsapp-chat-analyzer-2-ljrz.onrender.com)
+
+
 <img width="1438" alt="Screenshot 2025-02-15 at 3 48 40 PM" src="https://github.com/user-attachments/assets/8fea52cf-6fac-456e-8c30-7b632ef75244" />
 <img width="758" alt="Screenshot 2025-02-15 at 3 52 10 PM" src="https://github.com/user-attachments/assets/90b91683-d90e-4d05-bf3a-b532e13570c3" />
 <img width="1440" alt="Screenshot 2025-02-15 at 3 51 56 PM" src="https://github.com/user-attachments/assets/6f7788f5-fd87-4a93-8948-8134c5af900a" />
