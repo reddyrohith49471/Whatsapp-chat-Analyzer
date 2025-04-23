@@ -1,9 +1,6 @@
-Flask
-numpy
+streamlit
 pandas
 matplotlib
 seaborn
-gunicorn
-scikit-learn
-streamlit
+emoji
 urlextract
