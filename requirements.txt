@@ -6,3 +6,4 @@ seaborn
 gunicorn
 scikit-learn
 streamlit
+urlextract
